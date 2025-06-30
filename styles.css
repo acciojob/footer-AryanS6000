@@ -82,3 +82,8 @@ footer .top {
   .media-icons {
     margin-top: 20px;
   }
+.media-icons {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+}
